@@ -1,24 +1,19 @@
-# SuperSign
+Open Terminal Terminal
 
-قم بفتح التيرمينال الوحدة الطرفية
+Type chmod + x and a space
 
-قم بكتابة chmod +x ثم مسافة
+Drag the Terminal SuperSign file
 
-قم بسحب ملف SuperSign للتيرمينال
+Click enter
 
-اضغط انتر
+Place as many ipa files as you want in the
 
-ضع اي عدد تريده من ملفات الـ ipa داخل مجلد in
+Click as many dylib files as you want in the dylibs folder
 
-ضغ اي عدد تريده من ملفات الـ dylib في مجلد dylibs
+Return to the terminal terminal
 
-ارجع للتيرمينال الوحدة الطرفية
+Drag the SuperSign file into it and click Inter
 
-اسحب ملف SuperSign داخله و اضغط انتر
+After completion, you will find the IPA files that have been merged with the dylib files in the out folder
 
-بعد الانتهاء ستجد ملفات الـ IPA التي تم دمجتها مع ملفات الـ dylib في مجلد out
-
-
-تابعني على تويتر :)
-
-@AbdullahSUP
+--Credits to @AbdullahSUP on twitter
